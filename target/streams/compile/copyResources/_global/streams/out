@@ -1,0 +1,5 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\yanis\OneDrive\Bureau\play-correction-tp\conf\application.conf,C:\Users\yanis\OneDrive\Bureau\play-correction-tp\target\scala-2.13\classes\application.conf)
+[debug] 	(C:\Users\yanis\OneDrive\Bureau\play-correction-tp\conf\logback.xml,C:\Users\yanis\OneDrive\Bureau\play-correction-tp\target\scala-2.13\classes\logback.xml)
+[debug] 	(C:\Users\yanis\OneDrive\Bureau\play-correction-tp\conf\routes,C:\Users\yanis\OneDrive\Bureau\play-correction-tp\target\scala-2.13\classes\routes)
+[debug] 	(C:\Users\yanis\OneDrive\Bureau\play-correction-tp\conf\evolutions\default\1.sql,C:\Users\yanis\OneDrive\Bureau\play-correction-tp\target\scala-2.13\classes\evolutions\default\1.sql)
